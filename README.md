@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile.
+I am currently a student of Computer Science.  
+This year will be my last year in that course.
+
+🌱 I’m currently learning more about UX/UI to be a better web designer.
+
+🔭 I’m currently working on a local password manager to help me with  
+remembering my passwords
