@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my profile.
+I am currently a student of Computer Science.
+
+<!--[![LaMoldy's github stats](https://github-readme-stats.vercel.app/api?username=LaMoldy&count_private=true&show_icons=true)](https://github.com/LaMoldy)-->
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaMoldy&hide=php)](https://github.com/LaMoldy)
 <!--
 **LaMoldy/LaMoldy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Welcome to my profile.
-I am currently a student of Computer Science.  
-This year will be my last year in that course.
-
-🌱 I’m currently learning more about UX/UI to be a better web designer.
-
-🔭 I’m currently working on a local password manager to help me with  
-remembering my passwords
